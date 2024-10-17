@@ -1,0 +1,31 @@
+.cars{
+    background-color: darkolivegreen;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.Fruits{
+    background-color: darkred;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.Chichi{
+    background-color: darkgoldenrod;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#wanafunzi{
+    background-color: aqua;
+    text-align: center;
+}
